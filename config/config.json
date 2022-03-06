@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF275B61d065dE00C538a8fFf194FcDdF4a515F8B",
+  "SCAN_LINK": "https://polygonscan.com/token/0xF275B61d065dE00C538a8fFf194FcDdF4a515F8B",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Poopies Polygon",
+  "SYMBOL": "POOP",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/poopies-polygon",
+  "SHOW_BACKGROUND": true
+}
